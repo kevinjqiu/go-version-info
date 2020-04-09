@@ -1,3 +1,3 @@
-module github.com/kevinjqiu/version
+module github.com/kevinjqiu/go-version-info
 
 go 1.13
