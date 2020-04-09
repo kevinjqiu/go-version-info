@@ -1,5 +1,7 @@
 package version
 
+import "fmt"
+
 type BuildInfo struct {
 	Version string
 	Date    string
